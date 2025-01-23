@@ -1,6 +1,6 @@
 name: helloGithubAction
 
-on:[push]
+on: [push]
 
 jobs:
   build:
